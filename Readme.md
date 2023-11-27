@@ -1,3 +1,3 @@
-# gollyx-ii-pelican
+# gollyx-iii-pelican
 
-Pelican files for the source of the Hellmouth Cup II website.
+Pelican files for the source of the Hellmouth III Cup website.
